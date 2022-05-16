@@ -5,16 +5,10 @@ description: Data is useful as long as we've control over storing, reading, upda
 tag: dbms
 author: Rohit Prasan Mandal
 ---
+### Index:
 
-2............
-
-<iframe width="1045" height="588" src="https://www.youtube.com/embed/yfWu2clv9UY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-3.................
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yfWu2clv9UY/0.jpg)](https://www.youtube.com/watch?v=Rub-JsjMhWY)
-
-
+1. [Types of Keys](https://xiaowuc2.vercel.app/posts/2022-05-16-getting-started-with-MySQL#types-of-keys)
+2. 
 
 ### Types of Keys
 
