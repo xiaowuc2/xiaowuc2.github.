@@ -6,6 +6,8 @@ tag: dbms
 author: Rohit Prasan Mandal
 ---
 
+1..........
+
 <object width="425" height="350">
   <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg" />
   <param name="wmode" value="transparent" />
@@ -14,9 +16,15 @@ author: Rohit Prasan Mandal
          wmode="transparent" width="425" height="350" />
 </object>
 
+2............
+
 <iframe width="1045" height="588" src="https://www.youtube.com/embed/yfWu2clv9UY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+3.................
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=Rub-JsjMhWY)
+
+
 
 ### Types of Keys
 
