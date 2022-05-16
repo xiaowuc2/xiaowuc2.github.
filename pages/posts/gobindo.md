@@ -17,7 +17,6 @@ import Image from 'next/image'
   alt="Photo"
   width={1125}
   height={750}
-  priority
   className="next-image"
 />
 
@@ -26,11 +25,8 @@ import Image from 'next/image'
   alt="Photo"
   width={1125}
   height={750}
-  priority
   className="next-image"
 />
-
-![alt text](https://github.com/xiaowuc2/xiaowuc2.github./blob/master/public/images/photo.jpg)
 
 ## h2 Heading
 
