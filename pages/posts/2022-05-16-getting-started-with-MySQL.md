@@ -12,17 +12,11 @@ author: Rohit Prasan Mandal
 
 ### Types of Keys
 
-#### 1. Super Key
-
-#### 2. Candidate Key
-
-#### 3. Primary Key
-
-#### 4. Alternate key
-
-#### 5. Composite/Compound Key
-
-#### 6. Unique Key
-
-#### 7. Foreign Key
+1. Super Key
+2. Candidate Key
+3. Primary Key
+4. Alternate key
+5. Composite/Compound Key
+6. Unique Key
+7. Foreign Key
 
