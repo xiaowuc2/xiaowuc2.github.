@@ -79,7 +79,7 @@ DROP INDEX - deletes an index
 
 ### 3. Creating tables
 
-```
+```sql
 
 INT                           -- Whole Numbers
 DECIMAL(M,N)                  -- Decimal Numbers - Exact Value
@@ -104,7 +104,7 @@ ALTER TABLE student DROP COLUMN gpa;
 ```
 
 ### 4. Inserting Data
-```
+```sql
 
 INSERT INTO student VALUES(1, 'Jack', 'Biology');
 INSERT INTO student VALUES(2, 'Kate', 'Sociology');
@@ -112,10 +112,12 @@ INSERT INTO student(student_id, name) VALUES(3, 'Claire');
 INSERT INTO student VALUES(4, 'Jack', 'Biology');
 INSERT INTO student VALUES(5, 'Mike', 'Computer Science');
 
+SELECT * FROM student;
+
 ```
 ### 5.Constraints 
 
-```
+```sql
 
 CREATE TABLE student (
   student_id INT PRIMARY KEY AUTO_INCREMENT,
@@ -128,34 +130,66 @@ CREATE TABLE student (
 
 ### 6. Update & Delete
 
+```sql
+
+```
+
 ### 7. Basic Queries
+```sql
 
+```
 ### 8. Company Database Intro
+```sql
 
+```
 ### 9. Creating Company Database
+```sql
 
+```
 ### 10. More Basic Queries
+```sql
 
+```
 ### 11. Functions
+```sql
 
+```
 ### 12. Wildcards
+```sql
 
+```
 ### 13. Union
+```sql
 
+```
 ### 14. Joins
+```sql
 
+```
 ### 15. Nested Queries
+```sql
 
+```
 ### 16. On Delete
+```sql
 
+```
 ### 17. Triggers
+```sql
 
+```
 ### 18. ER Diagrams Intro
+```sql
 
+```
 ### 19. Designing an ER Diagram
+```sql
 
+```
 ### 20. Converting ER Diagrams to Schemas
+```sql
 
+```
 
 
 [^1]: MLDB is an open-source database designed for machine learning.
