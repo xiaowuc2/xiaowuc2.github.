@@ -13,19 +13,10 @@ author: You
 import Image from 'next/image'
 
 <Image
-  src="/images/photo2.jpg"
+  src="https://github.com/xiaowuc2/xiaowuc2.github./blob/master/public/images/photo.jpg"
   alt="Photo"
   width={1125}
   height={750}
-  className="next-image"
-/>
-
-<Image
-  src="/images/photo.jpg"
-  alt="Photo"
-  width={1125}
-  height={750}
-  className="next-image"
 />
 
 <img src="https://github.com/xiaowuc2/xiaowuc2.github./blob/master/public/images/photo.jpg/>
