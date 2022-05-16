@@ -107,6 +107,7 @@ ALTER TABLE student DROP COLUMN gpa;
 ```
 
 ### 4. Inserting Data
+
 ```
 
 INSERT INTO student VALUES(1, 'Jack', 'Biology');
@@ -137,14 +138,6 @@ INSERT INTO student(name) VALUES('Kate');
 
 ### 6. Update & Delete
 
-|Comparison Operators|Meanning|
-|----------|--------|
-|=|Equals|
-|<>|Not equals|
-|>|greater than|
-|<|less than|
-|>=|greater than equal|
-|<=|less than equal|
 ``` 
 DELETE FROM student;
 
@@ -176,58 +169,72 @@ WHERE student_id = 4;
 ```
 
 ### 7. Basic Queries
+
 ```
 
 ```
 ### 8. Company Database Intro
+
 ```
 
 ```
 ### 9. Creating Company Database
+
 ```
 
 ```
 ### 10. More Basic Queries
+
 ```
 
 ```
 ### 11. Functions
+
 ```
 
 ```
 ### 12. Wildcards
+
 ```
 
 ```
 ### 13. Union
+
 ```
 
 ```
 ### 14. Joins
+
 ```
 
 ```
 ### 15. Nested Queries
+
 ```
 
 ```
 ### 16. On Delete
+
 ```
 
 ```
 ### 17. Triggers
+
 ```
 
 ```
 ### 18. ER Diagrams Intro
+
 ```
 
 ```
 ### 19. Designing an ER Diagram
+
 ```
 
 ```
 ### 20. Converting ER Diagrams to Schemas
+
 ```
 
 ```
