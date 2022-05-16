@@ -56,6 +56,9 @@ ALTER TABLE - modifies a table
 DROP TABLE - deletes a table
 CREATE INDEX - creates an index (search key)
 DROP INDEX - deletes an index
+-- - comment 
+AUTO_INCREMENT - auto increment values. eg. 1 2 3 4 ...
+
 ```
 
 ### 1. Introduction
@@ -79,7 +82,7 @@ DROP INDEX - deletes an index
 
 ### 3. Creating tables
 
-```sql
+```
 
 INT                           -- Whole Numbers
 DECIMAL(M,N)                  -- Decimal Numbers - Exact Value
@@ -104,7 +107,7 @@ ALTER TABLE student DROP COLUMN gpa;
 ```
 
 ### 4. Inserting Data
-```sql
+```
 
 INSERT INTO student VALUES(1, 'Jack', 'Biology');
 INSERT INTO student VALUES(2, 'Kate', 'Sociology');
@@ -117,77 +120,115 @@ SELECT * FROM student;
 ```
 ### 5.Constraints 
 
-```sql
+PRIMARY KEY = NOT NULL and UNIQUE
 
+```
 CREATE TABLE student (
   student_id INT PRIMARY KEY AUTO_INCREMENT,
-  name VARCHAR(40) NOT NULL,
-  -- name VARCHAR(40) UNIQUE,
-  major VARCHAR(40) DEFAULT 'undecided',
+  name VARCHAR(40) NOT NULL,                        -- name VARCHAR(40) UNIQUE
+  major VARCHAR(40) DEFAULT 'undecided',            -- major VARCHAR(40) UNIQUE
 );
 
+INSERT INTO student(name, major) VALUES(1, 'Jack', 'Biology');
+INSERT INTO student(name, major) VALUES(2, 'Kate', 'Sociology');
+INSERT INTO student(name) VALUES('Kate');
+-- INSERT INTO student(name, major) VALUES(NULL, 'Sociology'); -- Error it can't be NULL as defined.
 ```
 
 ### 6. Update & Delete
 
-```sql
+|Comparison Operators|Meanning|
+|----------|--------|
+|=|Equals|
+|<>|Not equals|
+|>|greater than|
+|<|less than|
+|>=|greater than equal|
+|<=|less than equal|
+``` 
+DELETE FROM student;
+
+DELETE FROM student
+WHERE student_id = 4;
+
+DELETE FROM student
+WHERE major = 'Sociology' AND name = 'Kate';
+
+UPDATE student
+SET major = 'Undecided';
+
+UPDATE student
+SET name = 'Johnny'
+WHERE student_id = 4;
+
+UPDATE student
+SET major = 'Bio'
+WHERE major = 'Biology';
+
+UPDATE student
+SET major = 'Biosociology'
+WHERE major = 'Biology' OR major = 'sociology'
+
+UPDATE student
+SET major = 'Undecided', name = 'Tom'
+WHERE student_id = 4;
 
 ```
 
 ### 7. Basic Queries
-```sql
+```
 
 ```
 ### 8. Company Database Intro
-```sql
+```
 
 ```
 ### 9. Creating Company Database
-```sql
+```
 
 ```
 ### 10. More Basic Queries
-```sql
+```
 
 ```
 ### 11. Functions
-```sql
+```
 
 ```
 ### 12. Wildcards
-```sql
+```
 
 ```
 ### 13. Union
-```sql
+```
 
 ```
 ### 14. Joins
-```sql
+```
 
 ```
 ### 15. Nested Queries
-```sql
+```
 
 ```
 ### 16. On Delete
-```sql
+```
 
 ```
 ### 17. Triggers
-```sql
+```
 
 ```
 ### 18. ER Diagrams Intro
-```sql
+```
 
 ```
 ### 19. Designing an ER Diagram
-```sql
+```
 
 ```
 ### 20. Converting ER Diagrams to Schemas
-```sql
+```
 
 ```
 
