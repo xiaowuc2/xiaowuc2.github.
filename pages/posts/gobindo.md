@@ -19,9 +19,6 @@ import Image from 'next/image'
   height={750}
 />
 
-<img src="https://github.com/xiaowuc2/xiaowuc2.github./blob/master/public/images/photo.jpg/>
-
-
 ## h2 Heading
 
 ### h3 Heading
