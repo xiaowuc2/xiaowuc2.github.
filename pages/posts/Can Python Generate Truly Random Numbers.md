@@ -6,10 +6,9 @@ tag: Python
 author: Rohit Prasan Mandal
 ---
 
-## About 
-Can Python Generate Truly Rnadom Numbers?
+## Can Python Generate Truly Rnadom Numbers?
 
-The quick answer to this questios is NO. I've conducted an experiment to prove how the random numbers are not really random. 
+NO, the random module does not generate truly random numbers. I've conducted an experiment to prove how the random numbers are not really random. 
 These numbers are simply generated with pseudorandom number generator (PRNG), which is a technique for creating data that appears random but is nevertheless repeatable. 
 I'll describe how these algorithms work and few other popular PRNG algorithms we can use. I'll share few methods through which we can generate truly random numbers and
 check it's randomness.
