@@ -23,7 +23,7 @@ A pseudo-random number is suitable for most purposes. For example, if we wish t
 - **Linear Feedback Shift Registers(LFSR) :** Many so-called random number generators, such as those based on LFSR are not cryptographically secure, as it is possible to predict the sequence from a short prefix of the sequence. This approach with a long binary might take lifetime to repeat itself but with previous outputs it becomes easier to decipher the linear function and predict the next outcomes. But if two LFSR are combined together with another xor gate creating nonlinear functions then it's robust technique of generating random numbers, almost as good as flipping a coin at random.
 
 Example : 4 bit will generate 2^4 - 1 number of elements before it repeats
-```python 
+```
 state = 0b1001
 for i in range(20):
   print(state & 1, end = "")
@@ -31,7 +31,7 @@ for i in range(20):
   state = (state >> 1) | (newbit << 3) 
 ```
 Example : 128 bit will generate 2^128 -1 no of elements before it repeats
-```python 
+```
 state = (1 << 127) | 1                 # 1000...0001
 for i in range(20):
   print(state & 1, end = "")
