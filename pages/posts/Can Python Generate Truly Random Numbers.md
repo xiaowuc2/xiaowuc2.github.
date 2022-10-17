@@ -72,7 +72,7 @@ print(f"We began with {seed} and"
 The change  in standard deviation & mean with respect to the number of iterations.
 
 ### Experiment 2 : Randomness Test 
-Through this test[^2] 
+This test[^2] is used to analyze the distribution of a set of data to see if it can be described as random (patternless).
 
 ## Conclusion 
 Computers are capable of generating truly random numbers by observing some outside data using Hardware Random Generators. For example, mouse movements, the thermal noise from the environment, the atmosphere noise, which are not predictable. This is also known as entropy. But most of the time we use “pseudorandom” numbers generator algorithms, so the results appear random, even though they aren't. 
