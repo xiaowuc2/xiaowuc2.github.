@@ -14,6 +14,8 @@ author: Rohit Prasan Mandal
 <Image
   src="/images/rand.jpg"
   alt="Photo"
+  width={4592}
+  height={2584}
   priority
   className="next-image"
 />
