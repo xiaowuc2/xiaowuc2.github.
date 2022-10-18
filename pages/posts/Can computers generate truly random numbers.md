@@ -18,9 +18,7 @@ A pseudo-random number is suitable for most purposes. For example, if we wish t
 
 Computers can generate truly random numbers by observing and relying on the unpredictability in outside data, such as mouse movements, fan noise, thermal noise, photoelectric effect, the atmosphere noise and creating data from it, which are not predictable. This is referred to as entropy. Other times, they generate "pseudorandom" numbers using an algorithm to make the results appear random when they aren't.
 
-Here are few examples of True Random Numbers:
-
-Random walk, electric current of tv static over time, radioactive decay, the molecules of a gas, leaf falling from tree etc
+Here are few examples of True Random Numbers: Random walk, electric current of tv static over time, radioactive decay, the molecules of a gas, leaf falling from tree etc
 
 #### Non CSPRNG : 
 - **Linear Feedback Shift Registers(LFSR) :** Many so-called random number generators, such as those based on LFSR are not cryptographically secure, as it is possible to predict the sequence from a short prefix of the sequence. This approach with a long binary might take lifetime to repeat itself but with previous outputs it becomes easier to decipher the linear function and predict the next outcomes. But if two LFSR are combined together with another xor gate creating nonlinear functions then it's robust technique of generating random numbers, almost as good as flipping a coin at random.
@@ -70,7 +68,7 @@ A CSPRNG should typically begin with an unpredictable random seed from the opera
 - **Hardware Based Random Generator :** In python, under OS module `os.urandom()` returns a string of size random bytes suitable for cryptographic use. It can returns a string and random bytes. Random bytes returned by this function depend on the underlying operating system's random data source
 
 
-- Our work on CSPRNG : 
+- **Our work on CSPRNG :** 
 
 1. Hardware based CSPRNG [Early Access]() 
 2. CSPRNG using Generative Adversarial Networks [Under Development]()
