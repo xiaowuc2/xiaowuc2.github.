@@ -30,7 +30,7 @@ Computers can generate truly random numbers by observing and relying on the unpr
 
 Here are few examples of True Random Numbers: Random walk, electric current of tv static over time, radioactive decay, the molecules of a gas, leaf falling from tree etc
 
-#### Non CSPRNG : 
+#### PRNG : 
 - **Linear Feedback Shift Registers(LFSR) :** Many so-called random number generators, such as those based on LFSR are not cryptographically secure, as it is possible to predict the sequence from a short prefix of the sequence. This approach with a long binary might take lifetime to repeat itself but with previous outputs it becomes easier to decipher the linear function and predict the next outcomes. But if two LFSR are combined together with another xor gate creating nonlinear functions then it's robust technique of generating random numbers, almost as good as flipping a coin at random.
 
 Example : 4 bit will generate 2^4 - 1 number of elements before it repeats
