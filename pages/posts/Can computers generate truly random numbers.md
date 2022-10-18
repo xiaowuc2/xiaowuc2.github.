@@ -72,8 +72,9 @@ A CSPRNG should typically begin with an unpredictable random seed from the opera
 
 Here is our work on constructing CSPRNGs from the scratch : 
 
-1. Hardware based CSPRNG [📌]()
-2. Quantum Random Number Generator - Cloud [📌]()
+1. Hardware based CSPRNG [Early Access]() 
+2. CSPRNG using Generative adversarial networks [Under Development]()
+3. Quantum Random Number Generator - Cloud [Under Development]()
 
 ---
 
