@@ -6,6 +6,8 @@ tag: Random Number Generator, CSPRNG, PRNG, Python
 author: Rohit Prasan Mandal
 ---
 
+import Image from 'next/image'
+
 ## Can computers generate truly random numbers?
 
 
