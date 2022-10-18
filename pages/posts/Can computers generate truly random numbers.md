@@ -70,7 +70,7 @@ A CSPRNG should typically begin with an unpredictable random seed from the opera
 - **Hardware Based Random Generator :** In python, under OS module `os.urandom()` returns a string of size random bytes suitable for cryptographic use. It can returns a string and random bytes. Random bytes returned by this function depend on the underlying operating system's random data source
 
 
-Here is our work on constructing CSPRNGs from the scratch : 
+- Our work on CSPRNG : 
 
 1. Hardware based CSPRNG [Early Access]() 
 2. CSPRNG using Generative Adversarial Networks [Under Development]()
