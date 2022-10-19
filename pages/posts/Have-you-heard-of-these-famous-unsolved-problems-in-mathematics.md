@@ -22,22 +22,17 @@ import Image from 'next/image'
   className="next-image"
 />
 
-<Container row>
-  <BlueContainer>
-    <Text small>Container</Text>
-  </BlueContainer>
 
-  <BlueContainer flex={2}>
-    <Text small>Container</Text>
-  </BlueContainer>
+<Container direction={['column', 'row', 'row']} top>
+  <Container left>
+    <Input size="small" placeholder="Small" />
+  </Container>
 
-  <Container flex={3}>
-    <BlueContainer>
-      <Text small>Container</Text>
-    </BlueContainer>
+  <Container left>
+    <Input placeholder="Default" />
+  </Container>
 
-    <BlueContainer>
-      <Text small>Container</Text>
-    </BlueContainer>
+  <Container left>
+    <Input size="large" placeholder="Large" />
   </Container>
 </Container>
