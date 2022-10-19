@@ -21,4 +21,23 @@ import Image from 'next/image'
   priority
   className="next-image"
 />
-\
+
+<Container row>
+  <BlueContainer>
+    <Text small>Container</Text>
+  </BlueContainer>
+
+  <BlueContainer flex={2}>
+    <Text small>Container</Text>
+  </BlueContainer>
+
+  <Container flex={3}>
+    <BlueContainer>
+      <Text small>Container</Text>
+    </BlueContainer>
+
+    <BlueContainer>
+      <Text small>Container</Text>
+    </BlueContainer>
+  </Container>
+</Container>
