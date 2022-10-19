@@ -1,8 +1,7 @@
 ---
 title: Have you heard of these famous unsolved problems in mathematics?
 date: 2022/10/16
-description: Scientists have always questioned anything that cannot be described or understood with the naked eye. 
-One of the most contentious issues, "is there God?" has also been proven by logic. However, there are some mathematical problems that remains unsolved.
+description: Scientists have always questioned anything that cannot be described or understood with the naked eye. One of the most contentious issues, "is there God" has also been proven by logic. However, there are some mathematical problems that remains unsolved.
 author: Rohit Prasan Mandal
 ---
 
