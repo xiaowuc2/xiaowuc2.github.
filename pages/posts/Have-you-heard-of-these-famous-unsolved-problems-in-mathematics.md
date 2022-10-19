@@ -14,7 +14,7 @@ import Image from 'next/image'
  — Karl Popper
 
 <Image
-  src="/images/rand.jpg"
+  src="/images/like.jpg"
   alt="Photo"
   width={4592}
   height={2584}
