@@ -21,3 +21,4 @@ import Image from 'next/image'
   priority
   className="next-image"
 />
+\
