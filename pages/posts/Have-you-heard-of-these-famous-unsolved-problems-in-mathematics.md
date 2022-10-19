@@ -10,7 +10,8 @@ import Image from 'next/image'
 ## Have you heard of these famous unsolved problems in mathematics?
 
 
-> “Every solution of a problem raises new unsolved problems.” — Karl Popper
+> Every solution of a problem raises new unsolved problems. 
+ — Karl Popper
 
 <Image
   src="/images/rand.jpg"
