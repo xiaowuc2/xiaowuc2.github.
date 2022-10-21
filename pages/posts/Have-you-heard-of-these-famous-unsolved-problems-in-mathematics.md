@@ -7,7 +7,15 @@ author: Rohit Prasan Mandal
 
 import Image from 'next/image'
 
-## Visualizing these famous unsolved problems in mathematics (python)
+## Visualizing famous unsolved problems in mathematics (python)
+
+## 1. Collatz Conjecture 
+
+myy work on visualizing this conjecture : 
+- github : 
+- youtube : 
+- website : 
+## 2. Goldbatch Conjecture
 
 
 > Every solution of a problem raises new unsolved problems. 
