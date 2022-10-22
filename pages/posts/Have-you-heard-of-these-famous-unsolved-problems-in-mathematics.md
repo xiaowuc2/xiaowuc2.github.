@@ -10,18 +10,13 @@ author: Rohit Prasan Mandal
 import Image from 'next/image'
 
 <Image
-  src="/images/um.png"
+  src="/images/white.png"
   alt="Photo"
   width={4592}
   height={2584}
   priority
   className="next-image"
 />
-
-<Text size={16} color="geist-success">
-  The Evil Rabbit jumps.
-</Text>
-
 
 > Every solution of a problem raises new unsolved problems. 
  — Karl Popper
