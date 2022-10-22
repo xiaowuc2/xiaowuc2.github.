@@ -17,9 +17,7 @@ import Image from 'next/image'
   className="next-image"
 />
 
-*Voyage of a Computer Science student*
-
-If you've made it this far, consider checking out my channel for video versions of these blogs/projects. [YouTube](https://www.youtube.com/c/qxresearch)
+If you've made it this far, consider checking out my channel for video versions of these blogs/projects. **[YouTube](https://www.youtube.com/c/qxresearch)**
 
 <Image
   src="/images/qxr.png"
