@@ -21,9 +21,10 @@ import Image from 'next/image'
 
 If you've made it this far, consider checking out my channel for video versions of these blogs/projects. [YouTube](https://www.youtube.com/c/qxresearch)
 
+
+
 <Image
   src="/images/qxr.png"
-  a href="https://www.wikihow.com"
   width={200}
   height={60}
   alt="Photo"
@@ -33,10 +34,26 @@ If you've made it this far, consider checking out my channel for video versions 
 
 <Image
   src="/images/123.gif"
-  a href="https://www.wikihow.com"
   alt="Photo"
   width={200}
   height={60}
   priority
   className="next-image"
 />
+
+
+const myLoader = ({ src, width, quality }) => {
+  return `https://example.com/${src}?w=${width}&q=${quality || 75}`
+}
+
+const MyImage = (props) => {
+  return (
+    <Image
+      loader={myLoader}
+      src="/images/123.gif"
+      alt="Picture of the author"
+      width={200}
+      height={60}
+    />
+  )
+}
