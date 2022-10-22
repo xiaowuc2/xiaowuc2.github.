@@ -25,19 +25,9 @@ If you've made it this far, consider checking out my channel for video versions 
 
 <Image
   src="/images/qxr.png"
-  allign = "centre"
   width={200}
   height={60}
   alt="Photo"
-  priority
-  className="next-image"
-/>
-
-<Image
-  src="/images/123.gif"
-  alt="Photo"
-  width={200}
-  height={60}
   priority
   className="next-image"
 />
