@@ -9,10 +9,10 @@ date: 2021-03-18
 import Image from 'next/image'
 
 <Image
-  src="/images/mmm.png"
+  src="/images/mms.png"
   alt="Photo"
-  width={300}
-  height={100}
+  width={4592}
+  height={1568}
   priority
   className="next-image"
 />
