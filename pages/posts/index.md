@@ -25,9 +25,8 @@ To work with us on upcoming projects:
 - mail your skills, interests & GitHub id
 
 mail : qxresearch20@gmail.com
-youtube : [youtube/qxresearch](https://www.youtube.com/c/qxresearch)
 
----
+youtube : [youtube/qxresearch](https://www.youtube.com/c/qxresearch)
 
 <Image
   src="/images/qxr.png"
@@ -37,3 +36,5 @@ youtube : [youtube/qxresearch](https://www.youtube.com/c/qxresearch)
   priority
   className="next-image"
 />
+
+---
