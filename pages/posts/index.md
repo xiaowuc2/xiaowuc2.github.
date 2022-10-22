@@ -31,6 +31,8 @@ If you've made it this far, consider checking out my channel for video versions 
 <Image
   src="/images/123.gif"
   alt="Photo"
+  width={300}
+  height={40}
   priority
   className="next-image"
 />
