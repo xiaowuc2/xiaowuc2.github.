@@ -10,7 +10,7 @@ author: Rohit Prasan Mandal
 import Image from 'next/image'
 
 <Image
-  src="/images/white.png"
+  src="/images/um.png"
   alt="Photo"
   width={4592}
   height={2584}
@@ -28,21 +28,43 @@ The Collatz conjecture is one of the most famous unsolved problems in mathematic
 <iframe width="400" height="200" src="https://www.youtube.com/embed/kj9wWXW_QL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 My work on visualizing this conjecture : 
-- github : 
-- youtube : 
-- website : 
+- GitHub : xiaowuc2/
+- YouTube : qxresearch/
 
 ## 2. Goldbatch Conjecture
 
 
-My work on visualizing this conjecture : 
-- github : 
-- youtube : 
-- website : 
 
+<iframe width="400" height="200" src="https://www.youtube.com/embed/kj9wWXW_QL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+My work on visualizing this conjecture : 
+- GitHub : xiaowuc2/
+- YouTube : qxresearch/
 ## 3. Reimann Hypothesis :
+
+
+
+<iframe width="400" height="200" src="https://www.youtube.com/embed/kj9wWXW_QL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+My work on visualizing this conjecture : 
+- GitHub : xiaowuc2/
+- YouTube : qxresearch/
 
 ## 4. Twin Prime Conjecture :
 
 
+<iframe width="400" height="200" src="https://www.youtube.com/embed/kj9wWXW_QL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+My work on visualizing this conjecture : 
+- GitHub : xiaowuc2/
+- YouTube : qxresearch/
+
+
 ## 5. abc Conjecture : 
+
+
+<iframe width="400" height="200" src="https://www.youtube.com/embed/kj9wWXW_QL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+My work on visualizing this conjecture : 
+- GitHub : xiaowuc2/
+- YouTube : qxresearch/
