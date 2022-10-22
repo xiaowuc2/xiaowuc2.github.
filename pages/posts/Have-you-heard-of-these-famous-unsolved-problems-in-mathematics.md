@@ -23,6 +23,14 @@ import Image from 'next/image'
  
 ## 1. Collatz Conjecture 
 
+<Image
+  src="/images/cola.png"
+  alt="Photo"
+  width={4592}
+  height={2584}
+  priority
+  className="next-image"
+/>
 
 My work on visualizing this conjecture : 
 - github : 
