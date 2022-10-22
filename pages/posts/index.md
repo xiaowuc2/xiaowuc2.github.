@@ -23,6 +23,7 @@ If you've made it this far, consider checking out my channel for video versions 
 
 <Image
   src="/images/qxr.png"
+  a href="https://www.wikihow.com"
   width={200}
   height={60}
   alt="Photo"
@@ -32,6 +33,7 @@ If you've made it this far, consider checking out my channel for video versions 
 
 <Image
   src="/images/123.gif"
+  a href="https://www.wikihow.com"
   alt="Photo"
   width={200}
   height={60}
