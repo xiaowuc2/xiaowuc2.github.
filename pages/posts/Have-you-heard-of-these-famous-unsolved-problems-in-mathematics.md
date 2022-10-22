@@ -5,6 +5,8 @@ description: Scientists have always questioned anything that cannot be described
 author: Rohit Prasan Mandal
 ---
 
+## Visualizing famous unsolved problems in mathematics (python)
+
 import Image from 'next/image'
 
 <Image
@@ -16,27 +18,29 @@ import Image from 'next/image'
   className="next-image"
 />
 
+<Text size={16} color="geist-success">
+  The Evil Rabbit jumps.
+</Text>
+
 
 > Every solution of a problem raises new unsolved problems. 
  — Karl Popper
  
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-
-## Visualizing famous unsolved problems in mathematics (python)
-
 ## 1. Collatz Conjecture 
 
-myy work on visualizing this conjecture : 
+
+My work on visualizing this conjecture : 
 - github : 
 - youtube : 
 - website : 
+
 ## 2. Goldbatch Conjecture
+
+
+My work on visualizing this conjecture : 
+- github : 
+- youtube : 
+- website : 
 
 
 
