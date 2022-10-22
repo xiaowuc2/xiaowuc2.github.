@@ -20,3 +20,5 @@ import Image from 'next/image'
 *Voyage of a Computer Science student*
 
 If you've made it this far, consider checking out my channel for video versions of these blogs/projects. [YouTube](https://www.youtube.com/c/qxresearch)
+
+<a href="https://www.textstudio.co/">Logo generator</a>
