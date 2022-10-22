@@ -25,7 +25,7 @@ import Image from 'next/image'
 
 The Collatz conjecture is one of the most famous unsolved problems in mathematics. The conjecture asks whether repeating two simple arithmetic operations will eventually transform every positive integer into 1.
 
-<iframe width="4592" height="2584" src="https://www.youtube.com/embed/kj9wWXW_QL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="829" height="468" src="https://www.youtube.com/embed/kj9wWXW_QL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 My work on visualizing this conjecture : 
 - github : 
