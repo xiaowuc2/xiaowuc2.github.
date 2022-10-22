@@ -24,7 +24,7 @@ If you've made it this far, consider checking out my channel for video versions 
 <Image
   src="/images/qxr.png"
   width={200}
-  height={40}
+  height={60}
   alt="Photo"
   priority
   className="next-image"
