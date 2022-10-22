@@ -18,3 +18,5 @@ import Image from 'next/image'
 />
 
 *Voyage of a Computer Science student*
+
+As you made this so far, check out my channel for the video version of these blogs/projects. [YouTube](https://www.youtube.com/c/qxresearch)
