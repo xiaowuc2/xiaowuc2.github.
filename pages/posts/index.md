@@ -21,4 +21,16 @@ import Image from 'next/image'
 
 If you've made it this far, consider checking out my channel for video versions of these blogs/projects. [YouTube](https://www.youtube.com/c/qxresearch)
 
-<a href="https://www.textstudio.co/">Logo generator</a>
+<Image
+  src="/images/qxr.png"
+  alt="Photo"
+  priority
+  className="next-image"
+/>
+
+<Image
+  src="/images/123.gif"
+  alt="Photo"
+  priority
+  className="next-image"
+/>
