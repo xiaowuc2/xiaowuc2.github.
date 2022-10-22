@@ -7,6 +7,27 @@ author: Rohit Prasan Mandal
 
 import Image from 'next/image'
 
+<Image
+  src="/images/um.png"
+  alt="Photo"
+  width={4592}
+  height={2584}
+  priority
+  className="next-image"
+/>
+
+
+> Every solution of a problem raises new unsolved problems. 
+ — Karl Popper
+ 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+
 ## Visualizing famous unsolved problems in mathematics (python)
 
 ## 1. Collatz Conjecture 
@@ -18,15 +39,4 @@ myy work on visualizing this conjecture :
 ## 2. Goldbatch Conjecture
 
 
-> Every solution of a problem raises new unsolved problems. 
- — Karl Popper
-
-<Image
-  src="/images/um.png"
-  alt="Photo"
-  width={4592}
-  height={2584}
-  priority
-  className="next-image"
-/>
 
