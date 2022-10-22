@@ -25,6 +25,8 @@ import Image from 'next/image'
 
 The Collatz conjecture is one of the most famous unsolved problems in mathematics. The conjecture asks whether repeating two simple arithmetic operations will eventually transform every positive integer into 1.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kj9wWXW_QL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 My work on visualizing this conjecture : 
 - github : 
 - youtube : 
@@ -38,5 +40,9 @@ My work on visualizing this conjecture :
 - youtube : 
 - website : 
 
+## 3. Reimann Hypothesis :
+
+## 4. Twin Prime Conjecture :
 
 
+## 5. abc Conjecture : 
