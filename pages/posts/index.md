@@ -11,8 +11,8 @@ import Image from 'next/image'
 <Image
   src="/images/mmm.png"
   alt="Photo"
-  width={4592}
-  height={2584}
+  width={200}
+  height={100}
   priority
   className="next-image"
 />
