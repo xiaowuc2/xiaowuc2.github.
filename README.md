@@ -3,7 +3,7 @@
 ### [Rohit P. Mandal](xiaowuc2.vercel.app)
 
 
-
+import Image from 'next/image'
 <Image
   src="/images/qxr.png"
   width={200}
