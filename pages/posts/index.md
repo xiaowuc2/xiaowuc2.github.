@@ -28,14 +28,4 @@ mail : qxresearch20@gmail.com
 
 youtube : [youtube/qxresearch](https://www.youtube.com/c/qxresearch)
 
-<Image
-  src="/images/qxr.png"
-  width={200}
-  height={60}
-  alt="Photo"
-  priority
-  className="next-image"
-/>
-
-
 ---
