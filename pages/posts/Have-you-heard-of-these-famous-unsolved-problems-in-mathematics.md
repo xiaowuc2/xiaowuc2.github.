@@ -47,6 +47,8 @@ Take any positive integer, n :
 <Image
   src="/images/collatz_steps.png"
   alt="Photo"
+  width={4592}
+  height={1500}
   priority
   className="next-image"
 />
