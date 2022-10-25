@@ -40,19 +40,18 @@ Index :
 
 Collatz Conjecture is one of the most famous unproven problem in the realm of mathematics. The conjecture states that repeating two simple arithmetic operations will eventually transform any positive integer into 1.
 
+Take any positive integer, n :
+- If it is an even number : n/2
+- If it is an odd number : 3n + 1
+
 <Image
-  src="/images/3dn.png"
+  src="/images/collatz_steps.png"
   alt="Photo"
   width={4592}
   height={2584}
   priority
   className="next-image"
 />
-
-Take any positive integer, n :
-- If it is an even number : n/2
-- If it is an odd number : 3n + 1
-
 
 
 <iframe width="400" height="200" src="https://www.youtube.com/embed/kj9wWXW_QL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
