@@ -21,12 +21,24 @@ import Image from 'next/image'
 > Every solution of a problem raises new unsolved problems. 
  — Karl Popper
  
+
+## Introduction 
+
+These are the most well-known unproven mathematical problems. The goal of these projects is to use Python to gain some insight into these hypotheses in order to find any possible pattern through which we can observe some characteristics of these hypotheses. We may not be able to prove these hypotheses, but delving into them and comprehending their complexities is nonetheless intriguing.
+
+Index : 
+1. Collatz Conjecture : [YouTube]()  [GitHub]()
+2. abc Conjecture : [YouTube]()  [GitHub]()
+3. Goldbatch Conjecture : [YouTube]()  [GitHub]()
+4. Reimann Hypothesis : [YouTube]()  [GitHub]()
+5. Twin Prime : [YouTube]()  [GitHub]()
+ 
 ## 1. Collatz Conjecture 
 
 > Mathematics may not be ready for such problems.
   — Paul Erdos
 
-The Collatz conjecture is one of the most famous unsolved problems in mathematics. The conjecture asks whether repeating two simple arithmetic operations will eventually transform every positive integer into 1.
+Collatz Conjecture is one of the most famous unproven problem in the realm of mathematics. The conjecture states that repeating two simple arithmetic operations will eventually transform any positive integer into 1.
 
 <Image
   src="/images/3dn.png"
@@ -36,6 +48,12 @@ The Collatz conjecture is one of the most famous unsolved problems in mathematic
   priority
   className="next-image"
 />
+
+Take any positive integer, n :
+- If it is an even number : n/2
+- If it is an odd number : 3n + 1
+
+
 
 <iframe width="400" height="200" src="https://www.youtube.com/embed/kj9wWXW_QL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
