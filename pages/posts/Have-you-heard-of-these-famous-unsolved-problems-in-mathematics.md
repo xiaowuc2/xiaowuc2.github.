@@ -1,11 +1,11 @@
 ---
-title: Visualizing famous unsolved problems in mathematics (python)
+title: Visualizing unsolved problems in mathematics (python)
 date: 2022/09/10
 description: Scientists have always questioned anything that cannot be described or understood with the naked eye. One of the most contentious issues, "is there God" has also been proven by logic. However, there are some mathematical problems that remains unsolved.
 author: Rohit Prasan Mandal
 ---
 
-## Visualizing famous unsolved problems in mathematics (python)
+## Visualizing unsolved problems in mathematics (python)
 
 import Image from 'next/image'
 
@@ -24,6 +24,15 @@ import Image from 'next/image'
 ## 1. Collatz Conjecture 
 
 The Collatz conjecture is one of the most famous unsolved problems in mathematics. The conjecture asks whether repeating two simple arithmetic operations will eventually transform every positive integer into 1.
+
+<Image
+  src="/images/.p3cnng"
+  alt="Photo"
+  width={4592}
+  height={2584}
+  priority
+  className="next-image"
+/>
 
 <iframe width="400" height="200" src="https://www.youtube.com/embed/kj9wWXW_QL4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
