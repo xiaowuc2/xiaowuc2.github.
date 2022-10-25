@@ -27,11 +27,11 @@ import Image from 'next/image'
 These are the most well-known unproven mathematical problems. The goal of these projects is to use Python to gain some insight into these hypotheses in order to find any possible pattern through which we can observe some characteristics of these hypotheses. We may not be able to prove these hypotheses, but delving into them and comprehending their complexities is nonetheless intriguing.
 
 Index : 
-1. Collatz Conjecture : [YouTube]()  [GitHub]()
-2. abc Conjecture : [YouTube]()  [GitHub]()
-3. Goldbatch Conjecture : [YouTube]()  [GitHub]()
-4. Reimann Hypothesis : [YouTube]()  [GitHub]()
-5. Twin Prime : [YouTube]()  [GitHub]()
+1. Collatz Conjecture : [YouTube]() . [GitHub]()
+2. abc Conjecture : [YouTube]() . [GitHub]()
+3. Goldbatch Conjecture : [YouTube]() . [GitHub]()
+4. Reimann Hypothesis : [YouTube]() . [GitHub]()
+5. Twin Prime : [YouTube]() . [GitHub]()
  
 ## 1. Collatz Conjecture 
 
@@ -48,7 +48,7 @@ Take any positive integer, n :
   src="/images/collatz_steps.png"
   alt="Photo"
   width={4592}
-  height={1500}
+  height={1400}
   priority
   className="next-image"
 />
