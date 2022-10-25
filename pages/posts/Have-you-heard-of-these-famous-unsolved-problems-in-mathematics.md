@@ -29,7 +29,7 @@ import Image from 'next/image'
 The Collatz conjecture is one of the most famous unsolved problems in mathematics. The conjecture asks whether repeating two simple arithmetic operations will eventually transform every positive integer into 1.
 
 <Image
-  src="/images/3cn.png"
+  src="/images/3dn.png"
   alt="Photo"
   width={4592}
   height={2584}
