@@ -1,6 +1,6 @@
 ---
 title: Computational Thinking : Python
-date: 2022/09/10
+date: 2023/01/01
 description: Let's learn python and start to think like a programmer.  
 author: Rohit Prasan Mandal
 ---
