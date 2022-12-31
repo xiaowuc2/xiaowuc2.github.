@@ -7,3 +7,13 @@ author: Rohit Prasan Mandal
 ---
 
 ## Computational Thinking : Python
+
+<Image
+  src="/images/ad.png"
+  alt="Photo"
+  width={4592}
+  height={2584}
+  priority
+  className="next-image"
+/>
+
