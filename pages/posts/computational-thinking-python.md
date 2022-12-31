@@ -6,6 +6,8 @@ tag: Python, Algorithm
 author: Rohit Prasan Mandal
 ---
 
+import Image from 'next/image'
+
 ## Computational Thinking : Python
 
 <Image
