@@ -45,7 +45,7 @@ For live/online classes contact Rohit Prasan Mandal (rohitmandal814566@gmail.com
 
 
 <Image
-  src="https://github.com/xiaowuc2/xiaowuc2/blob/master/other%20source/black%202.gif"
+  src="/images/123.gif"
   alt="Photo"
   width={4592}
   height={2584}
