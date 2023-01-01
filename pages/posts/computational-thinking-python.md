@@ -54,7 +54,6 @@ For live/online classes contact Rohit Prasan Mandal (rohitmandal814566@gmail.com
     - More on Sets
     - Useful Functions
     
-
 2. **Conditional Statement :**
 
     - [Insight : Conditional Statement]()
@@ -69,7 +68,6 @@ For live/online classes contact Rohit Prasan Mandal (rohitmandal814566@gmail.com
     - while
     - for vs while]()
     
-
 4. **Functions :** 
 
     - [Insight : Functions]()
@@ -78,24 +76,20 @@ For live/online classes contact Rohit Prasan Mandal (rohitmandal814566@gmail.com
     - args and kwargs
     - Nested functions
 
-
 5. **Modules :** 
     
     - [Insight : Modules]()
     - Useful Modules
     - Creating Modules
     - Calling Modules
-    - [\_\_name__ == '\_\_main__']()
-
+    - [\_\_name__ == '\_\_main\_\_']()
   
 6. **Object Oriented Programming :**
    
-   - [Insight : OOP]()
+   - [Insight : OOPs]()
    - Initializing OOPs
    - 4 Pillars of OOPs
    - Practical Examples
-
-
   
 7. **Advanced Python Topics :**
 
@@ -108,7 +102,6 @@ For live/online classes contact Rohit Prasan Mandal (rohitmandal814566@gmail.com
         - [Insight : SQL]()
         - Database with Python
         - Practical Examples
-
 
 8. **Introduction to Data Structure and Algorithm : Python**
     - [Insight : DSA]()
