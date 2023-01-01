@@ -22,6 +22,9 @@ import Image from 'next/image'
 This course seeks to offer students an awareness of the role computing may play in problem solving and to let students, regardless of major, feel justified in their ability to develop simple programs that enable them to accomplish their goals. This course is a combination of two courses, Python and Data Structure and algorithm with python. We'll start with basic python and dive into Data Structure and Algorithm along with solving LeetCode problems. This course focuses on solving your doubts and evoke rational questions. Feel free to shoot me with your all creative questions relevant to this course at the discussion panel [here](https://github.com/xiaowuc2/Computational-Thinking-Python/discussions).
 
 
+For live/online classes contact Rohit Prasan Mandal (rohitmandal814566@gmail.com)
+
+
 ### Prerequisites
 
 1. Focus
@@ -30,11 +33,89 @@ This course seeks to offer students an awareness of the role computing may play 
 
 ### Goals
 
-1. Understand how python works using examples and hands on assignments
-2. Understand the use of mathematical concepts on the way
-3. Understad how to use python to solve coding problems (interview)
+1. Understand how python works and how to think python
+2. Mathematical concepts of Computer Science
+3. Cracking the coding interview with python
 4. Implement algorithms from scratch (Assignments)
 5. Work on unique projects (guided)
+
+### Syllabus 
+
+1. **Python Objects :**
+
+    - [Variable]()
+    - Operator
+    - Datatype
+    - More on String
+    - Compound Datatypes
+    - More on Lists
+    - More on Tuples
+    - More on Dictionaries
+    - More on Sets
+    - Useful Functions
+    
+
+2. **Conditional Statement :**
+
+    - [Insight : Conditional Statement]()
+    - if
+    - if else
+    - if elif else
+
+3. **Loops :**
+
+    - [Insight : Loops]()
+    - for
+    - while
+    - for vs while]()
+    
+
+4. **Functions :** 
+
+    - [Insight : Functions]()
+    - Functions
+    - return vs print
+    - args and kwargs
+    - Nested functions
+
+
+5. **Modules :** 
+    
+    - [Insight : Modules]()
+    - Useful Modules
+    - Creating Modules
+    - Calling Modules
+    - [\_\_name__ == '\_\_main__']()
+
+  
+6. **Object Oriented Programming :**
+   
+   - [Insight : OOP]()
+   - Initializing OOPs
+   - 4 Pillars of OOPs
+   - Practical Examples
+
+
+  
+7. **Advanced Python Topics :**
+
+    - Exception Handling
+        - [Insight : Exception Handling]()
+    - Date/Time Module
+    - Threading
+        - [Insight : Threading]()
+    - Database Connectivity using mySQL
+        - [Insight : SQL]()
+        - Database with Python
+        - Practical Examples
+
+
+8. **Introduction to Data Structure and Algorithm : Python**
+    - [Insight : DSA]()
+    - Basics of DSA
+    - Coding Questinos (Leetcode, Codechef, Custom)
+
+     
 
 ### What's next after this course ? 
 
