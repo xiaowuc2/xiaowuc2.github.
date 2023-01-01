@@ -11,7 +11,7 @@ author: Rohit Prasan Mandal
 import Image from 'next/image'
 
 <Image
-  src="/images/ad.png"
+  src="/images/catuz.gif"
   alt="Photo"
   width={4592}
   height={2584}
@@ -51,6 +51,16 @@ For live/online classes contact Rohit Prasan Mandal (rohitmandal814566@gmail.com
   priority
   className="next-image"
 />
+
+<Image
+  src="/images/ad.png"
+  alt="Photo"
+  width={4592}
+  height={2584}
+  priority
+  className="next-image"
+/>
+
 
 ### Syllabus 
 
