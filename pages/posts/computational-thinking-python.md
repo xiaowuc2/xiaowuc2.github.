@@ -21,9 +21,10 @@ import Image from 'next/image'
 
 This course seeks to offer students an awareness of the role computing may play in problem solving and to let students, regardless of major, feel justified in their ability to develop simple programs that enable them to accomplish their goals. This course is a combination of two courses, Python and Data Structure and algorithm with python. We'll start with basic python and dive into Data Structure and Algorithm along with solving LeetCode problems. This course focuses on solving your doubts and evoke rational questions. Feel free to shoot me with your all creative questions relevant to this course at the discussion panel [here](https://github.com/xiaowuc2/Computational-Thinking-Python/discussions).
 
+Access the demo youtube videos : [YouTube/qxresearch/Python]()
+
 
 For live/online classes contact Rohit Prasan Mandal (rohitmandal814566@gmail.com)
-
 
 ### Prerequisites
 
