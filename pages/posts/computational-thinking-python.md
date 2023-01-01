@@ -19,6 +19,8 @@ import Image from 'next/image'
   className="next-image"
 />
 
+
+
 <p align="center">
   View the course intro video : [youtube/qxresearch/ct-ptython]()
 </p>
@@ -40,6 +42,16 @@ For live/online classes contact Rohit Prasan Mandal (rohitmandal814566@gmail.com
 - ✒️ Cracking the coding interview with python
 - 💀 Implement algorithms from scratch (Assignments)
 - 🧠 Work on unique projects (guided)
+
+
+<Image
+  src="https://github.com/xiaowuc2/xiaowuc2/blob/master/other%20source/black%202.gif"
+  alt="Photo"
+  width={4592}
+  height={2584}
+  priority
+  className="next-image"
+/>
 
 ### Syllabus 
 
