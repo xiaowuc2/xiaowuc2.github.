@@ -35,11 +35,11 @@ For live/online classes contact Rohit Prasan Mandal (rohitmandal814566@gmail.com
 
 ### Goals
 
-1. Understand how python works and how to think python
-2. Mathematical concepts of Computer Science
-3. Cracking the coding interview with python
-4. Implement algorithms from scratch (Assignments)
-5. Work on unique projects (guided)
+- 📟 Understand how python works and how to think python
+- 📑 Mathematical concepts of Computer Science
+- ✒️ Cracking the coding interview with python
+- 💀 Implement algorithms from scratch (Assignments)
+- 🧠 Work on unique projects (guided)
 
 ### Syllabus 
 
