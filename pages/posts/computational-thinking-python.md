@@ -41,25 +41,6 @@ For live/online classes contact Rohit Prasan Mandal (rohitmandal814566@gmail.com
 - 💀 Implement algorithms from scratch (Assignments)
 - 🧠 Work on unique projects (guided)
 
-<Image
-  src="/images/black%202.gif"
-  alt="Photo"
-  width={4592}
-  height={2584}
-  priority
-  className="next-image"
-/>
-
-<Image
-  src="/images/ad.png"
-  alt="Photo"
-  width={4592}
-  height={2584}
-  priority
-  className="next-image"
-/>
-
-
 ### Syllabus 
 
 0. **Mathematics for Computer Science**
