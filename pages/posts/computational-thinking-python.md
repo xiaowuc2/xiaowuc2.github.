@@ -19,17 +19,6 @@ import Image from 'next/image'
   className="next-image"
 />
 
-<Image
-  src="/images/catuz.gif"
-  alt="Photo"
-  width={800}
-  height={600}
-  priority
-  className="next-image"
-/>
-
-
-
 <p align="center">
   View the course intro video : [youtube/qxresearch/ct-ptython]()
 </p>
