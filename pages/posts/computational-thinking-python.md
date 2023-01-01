@@ -11,8 +11,19 @@ author: Rohit Prasan Mandal
 import Image from 'next/image'
 
 <Image
+  src="/images/ad.png"
+  alt="Photo"
+  width={4592}
+  height={2584}
+  priority
+  className="next-image"
+/>
+
+<Image
   src="/images/catuz.gif"
   alt="Photo"
+  width={800}
+  height={600}
   priority
   className="next-image"
 />
