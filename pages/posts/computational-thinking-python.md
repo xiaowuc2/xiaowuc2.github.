@@ -1,7 +1,7 @@
 ---
 title: Computational Thinking  Python
 date: 2023/01/01
-description: Let's learn python and start to think like a programmer.  
+description: Let's learn python and start to think like a programmer. This course seeks to offer students an awareness of the role computing may play in problem solving and to let students, regardless of major, feel justified in their ability to develop simple programs that enable them to accomplish their goals. We'll start with the basics of python and dive deep into core concepts of python along with solving LeetCode problems.
 tag: Python, Algorithm
 author: Rohit Prasan Mandal
 ---
