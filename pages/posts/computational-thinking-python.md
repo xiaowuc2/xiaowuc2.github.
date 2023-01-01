@@ -43,9 +43,8 @@ For live/online classes contact Rohit Prasan Mandal (rohitmandal814566@gmail.com
 - 💀 Implement algorithms from scratch (Assignments)
 - 🧠 Work on unique projects (guided)
 
-
 <Image
-  src="/images/123.gif"
+  src="/images/black%202.gif"
   alt="Photo"
   width={4592}
   height={2584}
