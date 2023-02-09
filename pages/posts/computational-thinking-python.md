@@ -20,14 +20,8 @@ import Image from 'next/image'
 />
 
 <p align="center">
-  ♪ ⌘ 🍏 View the course intro video : [youtube/qxresearch/ct-ptython]()
-</p>
+  🍏 View the course intro video : [youtube/qxresearch/ct-ptython]()
 
-<p align="center">
-  🍅 View the course intro video : [youtube/qxresearch/ct-ptython]()
-</p>
-
-<p align="center">
   🍈 View the course intro video : [youtube/qxresearch/ct-ptython]()
 </p>
 
