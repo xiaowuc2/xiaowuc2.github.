@@ -27,6 +27,8 @@ This course seeks to offer students an awareness of the role computing may play 
 
 For ==live/online classes== contact ==Rohit== <mark>Prasan Mandal</mark> (rohitmandal814566@gmail.com)
 
+<mark style="background-color: #FFFF00">Highlighted text</mark>
+
 ### Prerequisites
 
 1. Focus
