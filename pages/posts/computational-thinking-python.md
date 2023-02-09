@@ -27,18 +27,6 @@ This course seeks to offer students an awareness of the role computing may play 
 
 For live/online classes contact Rohit Prasan Mandal (rohitmandal814566@gmail.com)
 
-<mark style="background-color: #FFFF00"> Highlighted text </mark>
-
-<div style="background-color: #FFFF00">Highlighted text</div>
-
-<style>
-mark { 
-  background-color: red;
-  color: black;
-}
-</style>
-
-<mark> b </mark>
 
 ### Prerequisites
 
