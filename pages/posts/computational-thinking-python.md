@@ -29,6 +29,17 @@ For live/online classes contact Rohit <mark>Prasan Mandal</mark> (rohitmandal814
 
 <mark style="background-color: #FFFF00"> Highlighted text </mark>
 
+<div style="background-color: #FFFF00">Highlighted text</div>
+
+<style>
+mark { 
+  background-color: yellow;
+  color: black;
+}
+</style>
+
+<mark> b </mark>
+
 ### Prerequisites
 
 1. Focus
