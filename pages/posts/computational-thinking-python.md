@@ -28,15 +28,13 @@ This course seeks to offer students an awareness of the role computing may play 
 
 Instructors Note : 
 
-Rohit Prasan Mandal [GitHub](https://github.com/xiaowuc2) [YouTube](https://www.youtube.com/qxresearch) [LinkedIn](https://linkedin.com/in/xiaowuc2)
+
 
 - Taught 100+ students & working professionals to crack coding interviews 
 - Conducted 10+ workshops on Machine Learning and Python in these colleges: CIEM, IEM, NSIT 
 - Helped them land their dream jobs: TCS, Accenture, Cognizant and Startups
 - I've cracked : IBM, TCS, Cognizant, Jio, Startups : Reverside, Juppiter AI Labs
 
-
-<br>
 
 - For Live 1:1 online classes contact me : rohitmandal814566@gmail.com
 - This course will be available at Udemy : [computational-thinking : python]() (`Under Development` (recorded sessions are available. contact)
