@@ -32,15 +32,6 @@ Rohit Prasan Mandal [GitHub](https://github.com/xiaowuc2) [YouTube](https://www.
 
 I am a Machine Learning Researcher, an 𝗜𝗕𝗠-er, and a Section Leader in 𝐒𝐭𝐚𝐧𝐟𝐨𝐫𝐝 Code in Place 2023, who has taught over 10,000 students and working professionals to succeed in coding interviews and land their dream jobs. My research on deep learning has been recognized through publications in esteemed journals such as 𝗦𝗽𝗿𝗶𝗻𝗴𝗲𝗿 and 𝗢'𝗥𝗲𝗶𝗹𝗹𝘆. With a year of teaching experience, I am dedicated to helping students by solving their doubts and encouraging them to ask questions.
 
-
-- 😃 I believe in creating an engaging and inspiring learning environment for my students.
-- 🖍️ I use visuals and demos to teach practical understanding.
-- ✍️ I prioritize hands-on practice in each class to foster real-world application and active learning.
-- 💭 I promote critical and creative thinking by finding optimal solutions to problems.
-- 🚀 I assist students with a final project to support them throughout their learning journey.
-- ⚓ The final project allows for effective collaboration, teamwork, guidance, and feedback.
-- 💯 I help create Python projects for your professional portfolio that showcase your skills.
-
 - For Live 1:1 online classes contact me : `rohitmandal814566@gmail.com` (+918145669222)
 
 ### Prerequisites
