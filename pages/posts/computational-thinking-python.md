@@ -19,9 +19,6 @@ import Image from 'next/image'
   className="next-image"
 />
 
-<p align="center">
-  View the course intro video : [youtube/qxresearch/ct-ptython]()
-</p>
 
 This course seeks to offer students an awareness of the role computing may play in problem solving and to let students, regardless of major, feel justified in their ability to develop simple programs that enable them to accomplish their goals. We'll start with the basics of python and dive deep into core concepts of python along with solving LeetCode problems. This course focuses on solving your doubts and evoke rational questions. Feel free to shoot me with your all creative questions pertinent to this course at the [discussion panel](https://github.com/xiaowuc2/Computational-Thinking-Python/discussions).
 
