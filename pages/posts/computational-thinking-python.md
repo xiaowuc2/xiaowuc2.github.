@@ -25,7 +25,17 @@ This course seeks to offer students an awareness of the role computing may play 
 
 Instructors Note : 
 
-<a href="https://www.teacheron.com/tutor-profile/76UO?r=76UO" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/proudToBeTeacher.png" style="width: 120px !important; height: 52px !important"></a>
+
+<Image
+  src="https://www.teacheron.com/resources/assets/img/badges/proudToBeTeacher.png"
+  href="https://www.teacheron.com/tutor-profile/76UO?r=76UO"
+  alt="Photo"
+  width={120px}
+  height={52px}
+  target="_blank"
+  priority
+  className="next-image"
+/>
 
 
 
