@@ -25,6 +25,10 @@ This course seeks to offer students an awareness of the role computing may play 
 
 Instructors Note : 
 
+<a href="https://www.teacheron.com/tutor-profile/76UO?r=76UO" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/proudToBeTeacher.png" style="width: 120px !important; height: 52px !important"></a>
+
+
+
 Rohit Prasan Mandal [GitHub](https://github.com/xiaowuc2) [YouTube](https://www.youtube.com/qxresearch) [LinkedIn](https://linkedin.com/in/xiaowuc2)
 
 I am a Machine Learning Researcher, an 𝗜𝗕𝗠-er, and a Section Leader in 𝐒𝐭𝐚𝐧𝐟𝐨𝐫𝐝 Code in Place 2023, who has taught over 10,000 students and working professionals to succeed in coding interviews and land their dream jobs. My research on deep learning has been recognized through publications in esteemed journals such as 𝗦𝗽𝗿𝗶𝗻𝗴𝗲𝗿 and 𝗢'𝗥𝗲𝗶𝗹𝗹𝘆. With a year of teaching experience, I am dedicated to helping students by solving their doubts and encouraging them to ask questions.
