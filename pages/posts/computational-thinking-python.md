@@ -32,7 +32,6 @@ Instructors Note :
   alt="Photo"
   width={120px}
   height={52px}
-  target="_blank"
   priority
   className="next-image"
 />
